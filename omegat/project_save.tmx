@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The game isbased on the history and deep lore aspresented in the A Song of Ice &amp; Fireliterary series, though knowledge of thesource material is not needed to play orrun this game.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103036Z" creationid="neijima" creationdate="20180904T102924Z">
+        <seg>このゲームは『炎と氷の歌』シリーズの歴史と深い伝承を基盤としていますが、ゲームをプレイしたり、運営するためにこの知識は必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The goal of each team is to claim the Iron Throne of Westeros by having the most Power at the end of the game.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T101545Z" creationid="neijima" creationdate="20180904T101545Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T100755Z" creationid="neijima" creationdate="20180904T100755Z">
         <seg>あなたが最強の王国を作り上げ、あなたの旗のもとにウェスタロスを結束させる時だ。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document aims to provide all of thetools and guidelines necessary for asmall group of ambitious people to runthis megagame.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T102928Z" creationid="neijima" creationdate="20180904T102928Z">
+        <seg>gThis document aims to provide all of thetools and guidelines necessary for asmall group of ambitious people to runthis megagame.</seg>
       </tuv>
     </tu>
     <tu>
