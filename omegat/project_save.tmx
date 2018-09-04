@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The goal of each team is to claim the Iron Throne of Westeros by having the most Power at the end of the game.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T101545Z" creationid="neijima" creationdate="20180904T101545Z">
+        <seg>各チームの目標は、ゲーム終了時に最も力を発揮し、鉄の玉座を獲得することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The time isripe to establish yourselves as thestrongest Kingdom of the realm andunite Westeros under your banner.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T100755Z" creationid="neijima" creationdate="20180904T100755Z">
