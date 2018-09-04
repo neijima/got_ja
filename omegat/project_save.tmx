@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aegon’sConquest is a strictly competitiveendeavor with tightly defined rules andplayer options.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T102348Z" creationid="neijima" creationdate="20180904T102348Z">
+        <seg>『アラゴンの征服』は、厳密に定義されたルールと、プレイヤーオプションを持つ競争ゲームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Amegagame is a tabletop game involvinga large number of players andadministrators whose interactions with each other contribute in aggregate to thegreater overarching story.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T102213Z" creationid="neijima" creationdate="20180904T102213Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T101937Z" creationid="neijima" creationdate="20180904T101937Z">
         <seg>また、彼らの暗い秘密のひとつを明らかにすることで、別の家を裏切れば、力は失われるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The game aligns itsplayers into eight major factions of fourplayers each with the ultimate goal tohave the most points by the end.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T102514Z" creationid="neijima" creationdate="20180904T102514Z">
+        <seg>このゲームは、4人のプレイヤーを８つの派閥に分け、最終的に最もポイントを稼ぐことを目標とします。</seg>
       </tuv>
     </tu>
     <tu>
