@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The documentgives suggestions on how to make thematerials and accessories needed to playthe game on your own, but still requiresa lot of hard work and effort.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103550Z" creationid="neijima" creationdate="20180904T103550Z">
+        <seg>本ルールにおいて、プレイするのに必要な素材やアクセサリーを作る方法について提案していますが、多くの労力と努力が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The game aligns itsplayers into eight major factions of fourplayers each with the ultimate goal tohave the most points by the end.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T102729Z" creationid="neijima" creationdate="20180904T102514Z">
@@ -118,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rules herein assumea do-it-yourself attitude.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103237Z" creationid="neijima" creationdate="20180904T103237Z">
+        <seg>このルールは、DIY精神を前提としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The time isripe to establish yourselves as thestrongest Kingdom of the realm andunite Westeros under your banner.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T100755Z" creationid="neijima" creationdate="20180904T100755Z">
@@ -128,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>This document aims to provide all of thetools and guidelines necessary for asmall group of ambitious people to runthis megagame.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T102928Z" creationid="neijima" creationdate="20180904T102928Z">
-        <seg>gThis document aims to provide all of thetools and guidelines necessary for asmall group of ambitious people to runthis megagame.</seg>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103151Z" creationid="neijima" creationdate="20180904T102928Z">
+        <seg>この本は、このメガゲームを運営する少数の野心的な人々に、このゲームに必要なすべてのツールとガイドラインを提供することを目的としています。</seg>
       </tuv>
     </tu>
     <tu>
