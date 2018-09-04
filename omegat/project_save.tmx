@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aegon’s Conquest is also a megagame.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T102032Z" creationid="neijima" creationdate="20180904T101955Z">
+        <seg>また、『アラゴンの征服』はメガゲームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amegagame is a tabletop game involvinga large number of players andadministrators whose interactions with each other contribute in aggregate to thegreater overarching story.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T102213Z" creationid="neijima" creationdate="20180904T102213Z">
+        <seg>メガゲームとは、お互いの干渉がストーリーに集約して発展する、多数のプレイヤーと管理者によって成り立つボードゲームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Claim victory in this continent-spanningwar and forge the Iron Throne!</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T101116Z" creationid="neijima" creationdate="20180904T101116Z">
