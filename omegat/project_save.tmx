@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Itencourages face-to-face diplomacy,tactical play, secret dealings, betrayal,and heartfelt roleplaying.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T102823Z" creationid="neijima" creationdate="20180904T102823Z">
+        <seg>対面外交、戦術的なプレイ、秘密の交渉、裏切り、そして心のこもったロールプレイをおすすめします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now, a new enemy hasinvaded from Old Valyria, bringingwith them fire and blood.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T100633Z" creationid="neijima" creationdate="20180904T100633Z">
@@ -88,8 +96,8 @@
       <tuv lang="EN-US">
         <seg>The game aligns itsplayers into eight major factions of fourplayers each with the ultimate goal tohave the most points by the end.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T102514Z" creationid="neijima" creationdate="20180904T102514Z">
-        <seg>このゲームは、4人のプレイヤーを８つの派閥に分け、最終的に最もポイントを稼ぐことを目標とします。</seg>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T102729Z" creationid="neijima" creationdate="20180904T102514Z">
+        <seg>4人のプレイヤーを８つの派閥に分け、最終的に最もポイントを稼ぐことを目標とします。</seg>
       </tuv>
     </tu>
     <tu>
