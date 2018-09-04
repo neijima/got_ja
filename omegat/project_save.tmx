@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are looking tobe a player in Aegon’s Conquest, focus onthe Factions &amp; Roles section, as well asthe section connected with the role youare planning on playing.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103901Z" creationid="neijima" creationdate="20180904T103753Z">
+        <seg>もしあなたが『アラゴンの征服』のプレイヤーのすることを探しているなら、「派閥と役割」の章を中心に読んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Itencourages face-to-face diplomacy,tactical play, secret dealings, betrayal,and heartfelt roleplaying.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T102823Z" creationid="neijima" creationdate="20180904T102823Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T100633Z" creationid="neijima" creationdate="20180904T100633Z">
         <seg>そして、火と血を伴って、Old Valyriaより新たな敵が侵入した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On their surface, the game mechanics ofAegon’s Conquest appear simple.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103935Z" creationid="neijima" creationdate="20180904T103755Z">
+        <seg>表面的には、『アラゴンの征服』はシンプルなメカニズムに見えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +170,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103151Z" creationid="neijima" creationdate="20180904T102928Z">
         <seg>この本は、このメガゲームを運営する少数の野心的な人々に、このゲームに必要なすべてのツールとガイドラインを提供することを目的としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document is created forthe administrators and Game Mastersrunning this game.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103732Z" creationid="neijima" creationdate="20180904T103732Z">
+        <seg>本ルールは、このゲームを運営している管理者と、ゲームマスター向けに作成されています。</seg>
       </tuv>
     </tu>
     <tu>
