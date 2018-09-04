@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Aegon’s Conquest is a medieval fantasy themed tabletop game created by DDE Adventures.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T101210Z" creationid="neijima" creationdate="20180904T101210Z">
+        <seg>「アラゴンの征服」は、DDE Adventuresによる、中世ファンタジーを舞台としたボードゲームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Claim victory in this continent-spanningwar and forge the Iron Throne!</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T101116Z" creationid="neijima" creationdate="20180904T101116Z">
         <seg>この大陸をわたる戦争で勝利し、鉄の玉座を建造せよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each team in Aegon's Conquest represents one of eight lordly Houses of the fractious continent of Westeros, each portrayed by four major personalities: the Lord, the Heir, the Knight, and the Maester.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="neijima" changedate="20180904T101428Z" creationid="neijima" creationdate="20180904T101428Z">
+        <seg>このゲームに参加するチームは、領主、跡継ぎ、騎士、そしてマイスターの４人の主要人物を分担し、苛烈な大陸であるウェスタロスにおける８つの名家を代表します。</seg>
       </tuv>
     </tu>
     <tu>
