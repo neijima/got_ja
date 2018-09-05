@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>House Durrandon o Argilac Durrandon, the StormKing.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180905T133353Z" creationid="n" creationdate="20180905T133353Z">
+        <seg>ドンダリオン家　◯Argilac ドンダリオン、嵐の王。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>House Gardener o Mern IX Gardener, King of the Reach House Martell o Meria Martell, Princess of Dorne.A blind, balding woman of 80.Known as the Yellow Toad.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180905T114133Z" creationid="n" creationdate="20180905T114133Z">
@@ -162,6 +170,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180905T032606Z" creationid="n" creationdate="20180905T032606Z">
         <seg>騎士のプレイヤーは、机上において、戦術と武力で軍隊を動かします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Known as Argilac theArrogant.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180905T133433Z" creationid="n" creationdate="20180905T133407Z">
+        <seg>傲慢のArgilacとして知られている。</seg>
       </tuv>
     </tu>
     <tu>
