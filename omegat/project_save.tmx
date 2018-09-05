@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>Also called simply "theConquest", this was the campaign inwhich Aegon I Targaryen conqueredmost of Westeros.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="n" changedate="20180905T081011Z" creationid="n" creationdate="20180905T080727Z">
-        <seg>ただ.</seg>
+      <tuv lang="EN-GB" changeid="n" changedate="20180905T081135Z" creationid="n" creationdate="20180905T080727Z">
+        <seg>ただ「征服」とも呼ばれ、これはAegon Ⅰ ターガリエンがウェスタロスを征服した戦役でした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +290,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103732Z" creationid="neijima" creationdate="20180904T103732Z">
         <seg>本ルールは、このゲームを運営している管理者と、ゲームマスター向けに作成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Together with hissisters, Visenya and Rhaenys, and theirdragons, Vhagar and Meraxes, Aegonsubdued six of the Seven Kingdoms,repelled only by Dorne.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180905T081159Z" creationid="n" creationdate="20180905T081159Z">
+        <seg>彼の姉妹、Visenyao</seg>
       </tuv>
     </tu>
     <tu>
