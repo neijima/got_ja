@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlike many other megagames, Aegon’sConquest only requires a few people towatch over the proceedings, answerquestions, and make the rare rulesadjudication.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180905T080128Z" creationid="n" creationdate="20180905T080128Z">
+        <seg>他の多くのメガゲームと異なり、『アラゴンの征服』では、何人かの人々が成り行きを見守り、質問に答え、珍しいルールの採決を下します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Westeros stands as a fracturedcontinent, with seven warring kingdomsjostling each other for power anddominance.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T100443Z" creationid="neijima" creationdate="20180904T100443Z">
