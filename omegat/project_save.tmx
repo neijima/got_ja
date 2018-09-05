@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>House Stark o Torrhen Stark, King in the North House Hoare o Harren Hoare, King of the Isles and the Rivers.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180905T112217Z" creationid="n" creationdate="20180905T112217Z">
+        <seg>スターク家　◯Torrhen スターク、北の王　</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However,the game reveals itself to be deeplycomplex and nuanced in the interactionsbetween all players.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T104134Z" creationid="neijima" creationdate="20180904T104134Z">
@@ -264,8 +272,8 @@
       <tuv lang="EN-US">
         <seg>The seven rulers of Westeros at the timewere: House Arryn o Ronnel Arryn, King of Mountain and Vale.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="n" changedate="20180905T111909Z" creationid="n" creationdate="20180905T111909Z">
-        <seg>時代の幕開け、ウェスタロスの７人の支配者──　アリン家　◯Ronnel Arryn、MountainとValeの王。</seg>
+      <tuv lang="EN-GB" changeid="n" changedate="20180905T112221Z" creationid="n" creationdate="20180905T111909Z">
+        <seg>時代の幕開け、ウェスタロスの７人の支配者──　アリン家　◯Ronnel Arryn、山とValeの王。</seg>
       </tuv>
     </tu>
     <tu>
