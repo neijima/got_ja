@@ -102,6 +102,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Knight players pour over a table to rally military forces in intense tactical combat.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180905T032606Z" creationid="n" creationdate="20180905T032606Z">
+        <seg>騎士のプレイヤーは、机上において、戦術と武力で軍隊を動かします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maester players advance theiravailable technology, uncover andmanipulate secrets, and plot outbeneficial marriages.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180905T032728Z" creationid="n" creationdate="20180905T032728Z">
+        <seg>マイスターのプレイヤーは、利用可能な技術を発展させ、秘密を発見し、それを操作し、有益な結婚の構想を練ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Major actions of theplayers have rippling effects throughouttheir own faction, called a House, aswell as their competitors.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T104304Z" creationid="neijima" creationdate="20180904T104304Z">
@@ -154,6 +170,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103656Z" creationid="neijima" creationdate="20180904T103656Z">
         <seg>「アラゴンの征服」をプレイするためには、ゲームは手軽ではなく、大量の印刷やアクセサリーの準備、そしてセットアップが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Lord players confer at a table to trade resources, make alliances, and outmaneuver their opponents in the courts.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180905T032522Z" creationid="n" creationdate="20180905T032522Z">
+        <seg>領主のプレイヤーは、資源を交換するための交渉を行い、同盟を結び、相手を宮廷で打ち負かすことができます。</seg>
       </tuv>
     </tu>
     <tu>
