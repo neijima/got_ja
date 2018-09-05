@@ -94,10 +94,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>House Lannister o Loren I Lannister, King of the Rock.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180905T112418Z" creationid="n" creationdate="20180905T112418Z">
+        <seg>ラニスター家、　◯Loren Ⅰ ラニスター、岩の王。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>House Stark o Torrhen Stark, King in the North House Hoare o Harren Hoare, King of the Isles and the Rivers.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="n" changedate="20180905T112217Z" creationid="n" creationdate="20180905T112217Z">
-        <seg>スターク家　◯Torrhen スターク、北の王　</seg>
+      <tuv lang="EN-GB" changeid="n" changedate="20180905T112334Z" creationid="n" creationdate="20180905T112217Z">
+        <seg>スターク家　◯Torrhen スターク、北の王　ホアレ家　◯Harren ホアレ、島と川の王。</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180905T032606Z" creationid="n" creationdate="20180905T032606Z">
         <seg>騎士のプレイヤーは、机上において、戦術と武力で軍隊を動かします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Known as Harren the Black.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180905T112349Z" creationid="n" creationdate="20180905T112349Z">
+        <seg>黒のHarrenとして知られている。</seg>
       </tuv>
     </tu>
     <tu>
