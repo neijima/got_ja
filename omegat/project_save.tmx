@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provide a small table for each faction tosetup at and call their own.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T150634Z" creationid="n" creationdate="20180917T150634Z">
+        <seg>各派閥が自身を主張し呼び出すための小さなテーブルを用意します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RunningAegon’s Conquest is not for the novicegame master and requires a largeamount of printing, accessory gathering,and setup.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103656Z" creationid="neijima" creationdate="20180904T103656Z">
@@ -558,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This helpseach team feel like they have a homebase and a safe place.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T150703Z" creationid="n" creationdate="20180917T150703Z">
+        <seg>これは、各チームが、拠点と安全な場所を持っているように感じることに役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This player directs armiesin the field to attack, defend, and restore order to lawless lands.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180917T075822Z" creationid="n" creationdate="20180917T075822Z">
@@ -578,6 +594,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180917T124532Z" creationid="n" creationdate="20180917T124420Z">
         <seg>この章では、ゲーム全体に適用されるルールやガイドラインについても説明します。これらはテーブルや機能に特有のものではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To nourishthe soul of your players, and yourself, itis recommended that the followingstrategies be implemented.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T150424Z" creationid="n" creationdate="20180917T150424Z">
+        <seg>プレイヤーとあなた自身の魂を養うために、以下の戦略を実施することをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
