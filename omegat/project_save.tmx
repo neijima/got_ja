@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Visenya placed a ruby studded Valyriansteel circlet on her brother's head andRhaenys hailed him as "Aegon, First ofHis Name, King of All Westeros, and Shieldof His People." Thus, an empire wasborn.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T072953Z" creationid="n" creationdate="20180917T072953Z">
+        <seg>Visenya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WORLDBUILDINGBACKGROUND The fictional Aegon's Conquest whichthis game is modeled after takes placeapproximately 300 years before the startof events as depicted in A Game ofThrones.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180905T080918Z" creationid="n" creationdate="20180905T080725Z">
