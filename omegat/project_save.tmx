@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ambiance It’s tempting to see Aegon’s Conquest asmerely an overly large board game.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T145945Z" creationid="n" creationdate="20180917T145945Z">
+        <seg>雰囲気　『アラゴンの征服』を過度に巨大なボードゲームと見なすことは魅力的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Amegagame is a tabletop game involvinga large number of players andadministrators whose interactions with each other contribute in aggregate to thegreater overarching story.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T102213Z" creationid="neijima" creationdate="20180904T102213Z">
@@ -578,6 +586,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180905T080128Z" creationid="n" creationdate="20180905T080128Z">
         <seg>他の多くのメガゲームと異なり、『アラゴンの征服』では、何人かの人々が成り行きを見守り、質問に答え、珍しいルールの採決を下します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the short breaks in betweenRounds to touch base with players andhave a conversation, extending thebreak time as needed.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T145849Z" creationid="n" creationdate="20180917T145849Z">
+        <seg>ラウンドの間にある短い休憩を利用して、本拠地でプレイヤーが会話を行います。必要に応じて休憩時間を延長してください。</seg>
       </tuv>
     </tu>
     <tu>
