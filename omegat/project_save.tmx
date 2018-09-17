@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Human Factor Aegon’s Conquest is a game about peopleand the human heart in conflict.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T124701Z" creationid="n" creationdate="20180917T124701Z">
+        <seg>人的要因　『アラゴンの征服』は、人々と、紛争にまつわる人々の心についてのゲームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Knight willalso coordinate supplies, lay sieges, andraze villages to the ground.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180917T075954Z" creationid="n" creationdate="20180917T075954Z">
@@ -448,8 +456,8 @@
       <tuv lang="EN-US">
         <seg>This section willalso discuss overarching rules andguidelines that apply to the whole gameand are not specific to any one table orfaction.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="n" changedate="20180917T124420Z" creationid="n" creationdate="20180917T124420Z">
-        <seg>この章</seg>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T124532Z" creationid="n" creationdate="20180917T124420Z">
+        <seg>この章では、ゲーム全体に適用されるルールやガイドラインについても説明します。これらはテーブルや機能に特有のものではありません。</seg>
       </tuv>
     </tu>
     <tu>
