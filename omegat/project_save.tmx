@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players should take to this role if they want themost tactical experience in the thick ofmilitary actions across the face of Westeros.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T080054Z" creationid="n" creationdate="20180917T080054Z">
+        <seg>プレイヤーが、ウェスタロスが直面する軍事行動の中でも、最も戦術的な経験をしたいなら、この役割を担うべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power is gained byconquering neighboring lands anduncovering ancient relics.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T101807Z" creationid="neijima" creationdate="20180904T101807Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103656Z" creationid="neijima" creationdate="20180904T103656Z">
         <seg>「アラゴンの征服」をプレイするためには、ゲームは手軽ではなく、大量の印刷やアクセサリーの準備、そしてセットアップが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Knight willalso coordinate supplies, lay sieges, andraze villages to the ground.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T075954Z" creationid="n" creationdate="20180917T075954Z">
+        <seg>また、騎士は消耗品を調整し、荒れた村に包囲網を敷きます。</seg>
       </tuv>
     </tu>
     <tu>
