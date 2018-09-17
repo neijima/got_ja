@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As much as possible,try and group players together intoHouses so that they are teaming up withpeople that they know.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T143826Z" creationid="n" creationdate="20180917T143826Z">
+        <seg>できるだけ多くのプレイヤーを家に集め、彼らが知り合い同士でチームが組めるようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As such, the role of administrators,called Game Masters is that of a referee.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180905T075425Z" creationid="n" creationdate="20180905T075425Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103656Z" creationid="neijima" creationdate="20180904T103656Z">
         <seg>「アラゴンの征服」をプレイするためには、ゲームは手軽ではなく、大量の印刷やアクセサリーの準備、そしてセットアップが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GameMasters and administrators of this gameshould look towards crowdmanagementand recruiting tools suchas online forums and EventBrite to helpfill up those seats.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T143748Z" creationid="n" creationdate="20180917T143748Z">
+        <seg>ゲームマスターと運営者は、オンラインフォーラムやEventBriteなどのクラウドマネジメントや募集ツールを参照することが、座席を埋めるのに役立つはずです。</seg>
       </tuv>
     </tu>
     <tu>
