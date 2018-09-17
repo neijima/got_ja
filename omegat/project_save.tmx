@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s a good idea to setup a randomized playlist ahead of time,ideally long enough that it doesn’trepeat.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T151302Z" creationid="n" creationdate="20180917T151302Z">
+        <seg>事前にランダマイズされたプレイリストを設定することをお勧めします。それが繰り返されないほど長くすることが理想的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s also verypractical to have a dedicated surface for writing notes and storing snacks andother personal items.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180917T150759Z" creationid="n" creationdate="20180917T150759Z">
@@ -310,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lastly, provide enoughpens and pencils for everyone.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T151056Z" creationid="n" creationdate="20180917T151056Z">
+        <seg>最後に、全てのプレイヤーに十分なペンと鉛筆を提供してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Listen and watch for people who areupset or are causing discomfort inothers.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180917T145736Z" creationid="n" creationdate="20180917T145736Z">
@@ -330,6 +346,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T104304Z" creationid="neijima" creationdate="20180904T104304Z">
         <seg>プレイヤーの主なアクションは、自らの「家」と呼ばれる派閥だけではなく、競争相手にも波及効果をもたらします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Music is essential for setting the rightmood for players.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T151220Z" creationid="n" creationdate="20180917T151220Z">
+        <seg>音楽は、プレイヤーを正しい気分に持っていくために必要不可欠です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +450,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103656Z" creationid="neijima" creationdate="20180904T103656Z">
         <seg>「アラゴンの征服」をプレイするためには、ゲームは手軽ではなく、大量の印刷やアクセサリーの準備、そしてセットアップが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Somepeople like to take a lot of notes and thishelps encourage deep strategic thinking.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T151134Z" creationid="n" creationdate="20180917T151134Z">
+        <seg>いくらかの人々は多くのメモを取ることが好きで、これは深い戦略的思考を促すのに役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
