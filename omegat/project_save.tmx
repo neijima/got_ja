@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This player directs armiesin the field to attack, defend, and restore order to lawless lands.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T075822Z" creationid="n" creationdate="20180917T075822Z">
+        <seg>このプレイヤーは、戦場にいる軍隊に、攻撃し、守り、無法地帯の秩序を回復させるように指示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Together with hissisters, Visenya and Rhaenys, and theirdragons, Vhagar and Meraxes, Aegonsubdued six of the Seven Kingdoms,repelled only by Dorne.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180905T081658Z" creationid="n" creationdate="20180905T081159Z">
