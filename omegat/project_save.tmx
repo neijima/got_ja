@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Build a meal break into the schedulesomewhere around the midpoint of thegame.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T144101Z" creationid="n" creationdate="20180917T144101Z">
+        <seg>ゲームの中間点のどこかのスケジュールで、食事休憩を組み込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Claim victory in this continent-spanningwar and forge the Iron Throne!</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T101116Z" creationid="neijima" creationdate="20180904T101116Z">
@@ -294,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plan for 6-8 hours of time for the game.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T144033Z" creationid="n" creationdate="20180917T144033Z">
+        <seg>このゲームは6-8時間ほどかかると見積もってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players should take to this role if they want themost tactical experience in the thick ofmilitary actions across the face of Westeros.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180917T080054Z" creationid="n" creationdate="20180917T080054Z">
@@ -474,6 +490,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T103732Z" creationid="neijima" creationdate="20180904T103732Z">
         <seg>本ルールは、このゲームを運営している管理者と、ゲームマスター向けに作成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This helps fostera sense of teamwork and cooperationagainst their adversaries.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T144006Z" creationid="n" creationdate="20180917T144006Z">
+        <seg>これは、チームワークの意識を高め、敵との協力を促進するのに役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
