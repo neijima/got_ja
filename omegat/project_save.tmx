@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a megagame, this endeavor requiresa large number of players.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T143409Z" creationid="n" creationdate="20180917T143409Z">
+        <seg>メガゲームゆえに、この努力には多くのプレイヤーの協力が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As such, the role of administrators,called Game Masters is that of a referee.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180905T075425Z" creationid="n" creationdate="20180905T075425Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="neijima" changedate="20180904T100259Z" creationid="neijima" creationdate="20180904T095900Z">
         <seg>導入　『ゲーム・オブ・スローンズ』の三世紀前、征服の時代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ideally,Aegon’s Conquest should have 33 playersand 4 Game Masters, though there aresome tools presented later toaccommodate fewer players.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T143618Z" creationid="n" creationdate="20180917T143618Z">
+        <seg>理想では、『アラゴンの征服』には33人のプレイヤーと4人のゲームマスターがいなくてはなりませんが、少数のプレイヤーに対応するためのいくつかのツールが後にあります。</seg>
       </tuv>
     </tu>
     <tu>
