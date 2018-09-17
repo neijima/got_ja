@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GRAND OVERVIEW Aegon’s Conquest, like many megagames,can feel like an overwhelming amountof work to run.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T124314Z" creationid="n" creationdate="20180917T124239Z">
+        <seg>概要　『アラゴンの征服』は、ほかのメガゲームと同じように圧倒的な作業量であるように感じるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heir players travelfrantically to wherever they are neededmost, relaying information betweenteam members and trying to do a littlebit of everything at each table.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180905T033158Z" creationid="n" creationdate="20180905T033009Z">
@@ -426,6 +434,22 @@
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180917T075822Z" creationid="n" creationdate="20180917T075822Z">
         <seg>このプレイヤーは、戦場にいる軍隊に、攻撃し、守り、無法地帯の秩序を回復させるように指示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section aims to helpGame Masters surmount that fear withtips, tricks, and advice.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T124426Z" creationid="n" creationdate="20180917T124241Z">
+        <seg>この章では、ゲームマスターがその恐怖をヒントやトリック、そしてアドバイスで克服する手助けとなることを目指しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section willalso discuss overarching rules andguidelines that apply to the whole gameand are not specific to any one table orfaction.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T124420Z" creationid="n" creationdate="20180917T124420Z">
+        <seg>この章</seg>
       </tuv>
     </tu>
     <tu>
