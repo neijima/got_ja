@@ -278,6 +278,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lastly, actively look out for thehappiness and comfort of the players.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T145616Z" creationid="n" creationdate="20180917T145616Z">
+        <seg>最後に、積極的にプレイヤーが幸福で快適かに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Listen and watch for people who areupset or are causing discomfort inothers.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T145736Z" creationid="n" creationdate="20180917T145736Z">
+        <seg>他の人に不快感を与えている人を見守ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maester players advance theiravailable technology, uncover andmanipulate secrets, and plot outbeneficial marriages.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180905T032728Z" creationid="n" creationdate="20180905T032728Z">
@@ -490,6 +506,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="n" changedate="20180905T033804Z" creationid="n" creationdate="20180905T033804Z">
         <seg>オプションである９番目の派閥、冥夜の守り人は、跡継ぎが自らの家から離脱し、冥夜の守り人に加わることを決断するまで、戦争を行う８つの家についての悪しき秘密を明らかにするために動くでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be a long, exhaustinggame and it’s good to have refreshmentson hand.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="n" changedate="20180917T145523Z" creationid="n" creationdate="20180917T145523Z">
+        <seg>これは長く、疲れ果てるゲームなので、飲み物を持っているのは良いことです。</seg>
       </tuv>
     </tu>
     <tu>
